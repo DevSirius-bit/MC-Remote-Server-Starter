@@ -1,0 +1,5 @@
+{
+  "server_url": "http://localhost:8765",
+  "auth_token": "replace-with-your-token",
+  "poll_seconds": 3
+}
